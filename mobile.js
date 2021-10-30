@@ -1,0 +1,1 @@
+document.documentElement.querySelector(h1).color = '#7983dc';
